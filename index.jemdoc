@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Yixuan Wang
+
+~~~
+{}{img_left}{index_files/self.jpg}{alt text}{430}{500}
+Hi, welcome to my page!
+
+I'm a first-year Ph.D. student in the [https://www.mccormick.northwestern.edu/electrical-computer/ ECE department] at [https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. My research interest falls in the learning-enabled cyber-physical systems(LE-CPSs) where the learning components act as the functionalities for perception, planning, decision-making and control. I am also interested in formal method where the safety, robustness and correctness of LE-CPSs are considered.
+
+Prior to Northwestern, I received my B.S. from [https://www.tsinghua.edu.cn/en/ Tsinghua University]. 
+
+[https://www.mccormick.northwestern.edu/electrical-computer/ Department of Electrical and Computer Engineering], \n
+[https://www.northwestern.edu/ Northwestern University] \n
+2145 Sheridan Road \n
+Tech Room L476 \n
+Evanston, IL 60208, United States \n 
+E-mail: /yixuanwang2024/ \[AT\] /northwestern/ \[DOT\] /edu/
+~~~
+
+== Recent News
+- I am honored to participate in the Design Automation Conference 2020(DAC 20) Young Fellow program in July. 
+
+== Education
+- Tsinghua University: B.S., Mesurement and Control, 2014 - 2018
+
+== Intern
+- Sensetime, Shenzhen, 2018.04 - 2018.08
+
