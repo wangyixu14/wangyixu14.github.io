@@ -7,7 +7,7 @@
 
 Hi, welcome to my page!
 
-I'm a first-year Ph.D. student in the [https://www.mccormick.northwestern.edu/electrical-computer/ ECE department] at [https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. My research interest falls in the learning-enabled cyber-physical systems(LE-CPSs) where the learning components act as the functionalities for perception, planning, decision-making and control. I am also interested in formal method where the safety, robustness and correctness of LE-CPSs are considered.
+I'm a second-year Ph.D. student in the [https://www.mccormick.northwestern.edu/electrical-computer/ ECE department] at [https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. My research interest falls in the learning-enabled cyber-physical systems(LE-CPSs) where the learning components act as the functionalities for perception, planning, decision-making and control. I am also interested in formal method where the safety, robustness and correctness of LE-CPSs are considered.
 
 Prior to Northwestern, I received my B.S. from [https://www.tsinghua.edu.cn/en/ Tsinghua University]. 
 
@@ -20,7 +20,7 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 ~~~
 
 == Recent News
-- 2020.08	One paper(special session) is submitted to ICCAD special session. 
+- 2020.08	Our paper /Know the Unknowns: Addressing Disturbances and Uncertainties in Autonomous Systems/ is accepted by ICCAD special session. 
 - 2020.08   [https://arxiv.org/abs/2008.03625 One paper] is submitted to BuildSys 2020.
 - 2020.08	Our paper /Accurate kinematics calibration method for a large-scale machine tool/ is accepted by IEEE Transaction on Industrial Electronics(IF=7.5+, 2019.) This work was done when I was an undergraduate student in Tsinghua Univerisity... 
 - 2020.07.  Our paper /Energy-Efficient Control Adaptation with Safety Guarantees for Learning-Enabled Cyber-Physical Systems/ is accpted by [https://iccad.com/iccad_2020_accepted_papers ICCAD 2020]! 
