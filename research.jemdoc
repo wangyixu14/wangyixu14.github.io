@@ -5,9 +5,13 @@
 My research interests include cyber-physical systems, machine learning and formal verification.
 == Publications
 * indicates equal contribution
+- Safety-Assured Design and Adaptation of Learning-Enabled Autonomous Systems
+-- Qi Zhu, Chao Huang, Ruochen Jiao, Shuyue Lan, Hengyi Liang, Xiangguo Liu, *Yixuan Wang*, Zhilu Wang, Shichao Xu
+-- /26th Asia and South Pacific Design Automation Conference(ASP-DAC'21)/, Jan, 2021. 
+
 - Accurate kinematics calibration method for a large-scale machine tool
 -- *Yixuan Wang*\*, An Wan \*, Guijun Xue, Ken Chen, Jing Xu
--- IEEE Transaction on Industrial Electronics
+-- /IEEE Transaction on Industrial Electronics/
 
 - One for Many: Transfer Learning for Building HVAC Control
 -- Shichao Xu, *Yixuan Wang*, Yanzhi Wang, Zheng O'Neill, Qi Zhu
