@@ -5,6 +5,10 @@
 My research interests include cyber-physical systems, machine learning and formal verification.
 == Publications
 * indicates equal contribution
+- Bounding Perception Neural Network Uncertainty for Safe Control of Autonomous Systems
+-- Zhilu Wang, Chao Huang, *Yixuan Wang*, Clara Hobbs, Samarjit Chakraborty, Qi Zhu
+-- /Design, Automation and Test in Europe Conference(DATE'21)/, Feb, 2021.
+
 - Safety-Assured Design and Adaptation of Learning-Enabled Autonomous Systems
 -- Qi Zhu, Chao Huang, Ruochen Jiao, Shuyue Lan, Hengyi Liang, Xiangguo Liu, *Yixuan Wang*, Zhilu Wang, Shichao Xu
 -- /26th Asia and South Pacific Design Automation Conference(ASP-DAC'21)/, Jan, 2021. 
