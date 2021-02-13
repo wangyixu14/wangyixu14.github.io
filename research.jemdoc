@@ -5,6 +5,10 @@
 My research interests include cyber-physical systems, machine learning and formal verification.
 == Publications
 * indicates equal contribution
+- Cocktail: Learn a Better Neural Network Controller from Multiple Experts via Adaptive Mixing and Robust Distillation
+-- *Yixuan Wang*, Chao Huang, Zhilu Wang, Shichao Xu, Zhaoran Wang, Qi Zhu
+-- /Design Automation Conference(DAC'21)/, Jul, 2021.
+
 - Bounding Perception Neural Network Uncertainty for Safe Control of Autonomous Systems
 -- Zhilu Wang, Chao Huang, *Yixuan Wang*, Clara Hobbs, Samarjit Chakraborty, Qi Zhu
 -- /Design, Automation and Test in Europe Conference(DATE'21)/, Feb, 2021.
