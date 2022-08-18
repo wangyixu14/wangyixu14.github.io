@@ -5,6 +5,10 @@
 My research interests include cyber-physical systems, machine learning and formal verification.
 == Publications [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar]
 * indicates equal contribution
+- A Tool for Neural Network Global Robustness Certification and Training
+-- Zhilu Wang, *Yixuan Wang*, Feisi Fu, Ruochen Jiao, Chao Huang, Wenchao Li, Qi Zhu
+-- preprint
+
 - Joint Differentiable Optimization and Verification for Certified Reinforcement Learning
 -- *Yixuan Wang*, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
 -- preprint
