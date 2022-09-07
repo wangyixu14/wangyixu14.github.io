@@ -7,7 +7,7 @@
 
 Hi, welcome to my personal page! 
 
-I'm a thrid-year Ph.D. student in the [https://www.mccormick.northwestern.edu/electrical-computer/ Computer Engineering] at 
+I'm a fourth-year Ph.D. student in the [https://www.mccormick.northwestern.edu/electrical-computer/ Computer Engineering] at 
 [https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. 
 I also work closely with [https://chaohuang2018.github.io/main/  Prof. Chao Huang] from Unversity of Liverpool and [https://zhaoranwang.github.io/ Prof. Zhaoran Wang] in IEMS at Northwestern.  
 My research interest falls in the learning-enabled cyber-physical systems(LE-CPSs) where the learning components act as the 
@@ -24,6 +24,7 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 ~~~
 
 == Recent News
+- 2022.09   Paper /Accelerate Online Reinforcement Learning for Building HVAC Control with Heterogeneous Expert Guidances/ is accepted by Buildsys 2022.
 - 2022.08	Paper /A Tool for Neural Network Global Robustness Certification and Training/ is on [https://arxiv.org/abs/2208.07289 arXiv].
 - 2022.07	I am in San Francisco to present our verification-in-the-loop paper at Design Automation Conference 2022. 
 - 2022.02	Our paper /Design-while-Verify: Correct-by-Construction Control Learning with Verification in the Loop/ is accepted by DAC 2022, see u at SF this summer.
@@ -45,7 +46,24 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 
 == Education
 - Tsinghua University: B.S., Mesurement and Control, 2014 - 2018(GPA: 91.6, ranking 2/71)
+- Northwestern Univerisity: M.S., Computer Engineering, 2019 - 2022.
 - Northwestern University: Ph.D., Computer Engineering, 2019 - Present
+
+== Working Experience
+- Ford Motor Company, 2021.06 - 2021.09, Research Intern
+- Sensetime, Shenzhen, 2019.04 - 2019.08, Machine Learning Engineering Intern
+- Mech-Mind Robotics, Beijing, 2017.12 - 2018.02, Software Development Engineering Intern
+
+== Activities
+- DAC 2020 Young Fellow.
+
+== Services
+- Reviewer for AAAI 2023.
+- Reviewer for Conference on Neural Information Processing Systems(NeurIPS), 2022 
+- External reviewer for RTAS 2022, ICCAD 2021, ASP-DAC 2021, ICCAD 2020, DAC 2020.
+
+== Teaching
+- Deep Reinforcement Learning from Scratch, Spring 2022.
 
 == Awards
 - Best Paper Candidate, ICCAD 2020.
@@ -55,14 +73,11 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 - Outstanding Undergraduate Students(top 2%), Tsinghua Univerisity, 2018. 
 - Outstanding Undergraduate Students of Beijing(top 5%), 2018. 
 
-== Teaching
-- Deep Reinforcement Learning from Scratch, Spring 2022. 
 
 == Follow me
 - [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar], [https://github.com/wangyixu14 Github], [https://twitter.com/wangyix94518829 twitter]
 
 == What I love
-- My lovely girlfriend has her [https://ximengwu22.github.io/Simone/ page]
 - Sports([https://www.nba.com/kobe-bryant-tribute basketball], [https://rogerfederer.com/ tennis], [https://en.wikipedia.org/wiki/Lin_Dan badminton], [http://www.snooker.org/res/index.asp?player=224 billiard], ect.)
 - [https://space.bilibili.com/290526283?from=search&seid=11225113956976063333 Cooking]
 - [https://na.leagueoflegends.com/en-us/ League of Legends]
