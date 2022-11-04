@@ -5,6 +5,10 @@
 My research interests include cyber-physical systems, machine learning and formal verification.
 == Publications [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar]
 * indicates equal contribution
+- REGLO: Provable Neural Network Repair for Global Robustness Properties
+-- Feisi Fu, Zhilu Wang, Jiameng Fan, Yixuan Wang,Chao Huang, Qi Zhu, Xin Chen, Wenchao Li
+-- Under review
+
 - Enforcing Hard Constraints with Soft Barriers: Safe Reinforcement Learning in Unknown Stochastic Environments
 -- *Yixuan Wang*, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, Wanxin Jin, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu
 -- preprint
@@ -19,7 +23,7 @@ My research interests include cyber-physical systems, machine learning and forma
 
 - Joint Differentiable Optimization and Verification for Certified Reinforcement Learning
 -- *Yixuan Wang*, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
--- preprint
+-- Under review
 
 - Physics-Aware Safety-Assured Design of Hierarchical Neural Network based Planner
 -- Xiangguo Liu, Chao Huang, *Yixuan Wang*, Bowen Zheng, Qi Zhu
