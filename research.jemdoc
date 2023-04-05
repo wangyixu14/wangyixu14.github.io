@@ -5,6 +5,18 @@
 My research interests include cyber-physical systems, machine learning and formal verification.
 == Publications [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar]
 * indicates equal contribution
+- POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems
+-- *Yixuan Wang*, Weichao Zhou, Jiameng Fan, Zhilu Wang, Jiajun Li, Xin Chen, Chao Huang, Wenchao Li, Qi Zhu
+-- Under review (TCAD) 
+
+- Safety-Assured Speculative Planning with Adaptive Prediction
+-- Xiangguo Liu, Ruochen Jiao, *Yixuan Wang*, Yimin Han, Bowen Zheng, Qi Zhu
+-- Under review (IROS)
+
+- Efficient and Assured Reinforcement Learning-based Building HVAC Control with Heterogeneous Expert-guided Training
+-- Shichao Xu, Yangyang Fu, *Yixuan Wang*, Zhuoran Yang, Chao Huang, Zheng O'Neil, Zhaoran Wang, Qi Zhu
+-- Under review (Nature Scientific Reports)
+
 - REGLO: Provable Neural Network Repair for Global Robustness Properties
 -- Feisi Fu, Zhilu Wang, Jiameng Fan, *Yixuan Wang*,Chao Huang, Qi Zhu, Xin Chen, Wenchao Li
 -- Under review
