@@ -24,6 +24,8 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 ~~~
 
 == Recent News
+- 2023.05	I will give a talk to the 6th IEEE International Workshop on Design Automation for Cyber-Physical Systems (DACPS), in July. The title of this talk is "Explainable safe reinforcement learning for safety-critical CPSs"
+ which will mainly cover our recent ICML and ICCPS paper, where we developed a differentiable joint-learning bi-level optimization framework for safe RL with both deterministic and stochastic environment. 
 - 2023.04	Our paper /Enforcing Hard Constraints with Soft Barriers: Safety-driven Reinforcement Learning in Unknown Stochastic Environments/ has been accepted to ICML 2023, see u in Hawaii this Summer!
 - 2023.03   I passed the Ph.D. Prospectus Exam!
 - 2023.01	Our paper /Joint Differentiable Optimization and Verification for Certified Reinforcement Learning/ is accepted by ICCPS 2023. 
@@ -53,9 +55,10 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 == Education
 - Tsinghua University: B.S., Mesurement and Control, 2014 - 2018(GPA: 91.6, ranking 2/71)
 - Northwestern Univerisity: M.S., Computer Engineering, 2019 - 2022.
-- Northwestern University: Ph.D., Computer Engineering, 2019 - Present
+- Northwestern University: Ph.D., Computer Engineering, 2019 - 2024 (expected)
 
 == Working Experience
+- Bosch USA, Sunnyvale, CA, 2023.03 - 2023.06, Machine Learning Engineering Intern
 - Ford Motor Company, 2021.06 - 2021.09, Research Intern
 - Sensetime, Shenzhen, 2019.04 - 2019.08, Machine Learning Engineering Intern
 - Mech-Mind Robotics, Beijing, 2017.12 - 2018.02, Software Development Engineering Intern
@@ -64,9 +67,7 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 - DAC 2020 Young Fellow.
 
 == Services
-- Reviewer for AAAI 2023.
-- Reviewer for Conference on Neural Information Processing Systems(NeurIPS), 2022 
-- External reviewer for RTAS 2022, ICCAD 2021, ASP-DAC 2021, ICCAD 2020, DAC 2020.
+- Reviewer for AAAI, NeurIPS, ICML, RAL, CDC, etc
 
 == Teaching
 - Teaching Assistant for ELEC_ENG 373, 473 Deep Reinforcement Learning from Scratch, Spring 2022.
