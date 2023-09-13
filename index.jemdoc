@@ -7,7 +7,7 @@
 
 Hi, welcome to my personal page! 
 
-I'm a fourth-year Ph.D. student in the [https://www.mccormick.northwestern.edu/electrical-computer/ Computer Engineering] at 
+I'm a fifth-year Ph.D. student in the [https://www.mccormick.northwestern.edu/electrical-computer/ Computer Engineering] at 
 [https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. 
 I also work closely with [https://chaohuang2018.github.io/main/  Prof. Chao Huang] from Unversity of Liverpool and [https://zhaoranwang.github.io/ Prof. Zhaoran Wang] in IEMS at Northwestern.  
 My research interest falls in the learning-enabled cyber-physical systems(LE-CPSs) where the learning components act as the 
@@ -24,6 +24,8 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 ~~~
 
 == Recent News
+- 2023.08	The co-authored book chapter [https://link.springer.com/chapter/10.1007/978-3-031-28016-0_26, Safety-Assured Design and Adaptation of Connected and Autonomous Vehicles] is online.
+- 2023.07	I presented the paper in ICML. 
 - 2023.06	Our paper /Safety-Assured Speculative Planning with Adaptive Prediction/ is accepted to IROS 2023, see u in Detroit this October!
 - 2023.05	I will give a talk to the 6th IEEE International Workshop on Design Automation for Cyber-Physical Systems (DACPS), in July. The title of this talk is "Explainable safe reinforcement learning for safety-critical CPSs"
  which will mainly cover our recent ICML and ICCPS paper, where we developed a differentiable joint-learning bi-level optimization framework for safe RL with both deterministic and stochastic environment. 
