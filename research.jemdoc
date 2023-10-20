@@ -20,7 +20,7 @@ My research interests include cyber-physical systems, machine learning and forma
 
 === Peer-Reviewed Papers
 - POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems
--- *Yixuan Wang*, Weichao Zhou, Jiameng Fan, Zhilu Wang, Jiajun Li, Xin Chen, Chao Huang, Wenchao Li, Qi Zhu
+-- *Yixuan Wang*\*, Weichao Zhou\*, Jiameng Fan, Zhilu Wang, Jiajun Li, Xin Chen, Chao Huang, Wenchao Li, Qi Zhu
 -- /IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)/, Oct 2023.
 
 - Safety-Assured Speculative Planning with Adaptive Prediction
@@ -36,7 +36,7 @@ My research interests include cyber-physical systems, machine learning and forma
 -- /International Conference on Systems for Energy-Efficient Built Environments(BuildSys 2022)/, Nov. 2022.
 
 - Joint Differentiable Optimization and Verification for Certified Reinforcement Learning
--- *Yixuan Wang*, *Simon Sinong Zhan*, Zhilu Wang, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
+-- *Yixuan Wang*\*, Simon Zhan\*, Zhilu Wang, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
 -- /International Conference on Cyber-Physical Systems (ICCPS 2023)/, May. 2023.
 -- equal contribution
 
