@@ -9,58 +9,28 @@ Hi, welcome to my personal page!
 
 I'm a fifth-year Ph.D. student in the [https://www.mccormick.northwestern.edu/electrical-computer/ Computer Engineering] at 
 [https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. 
-I also work closely with [https://chaohuang2018.github.io/main/  Prof. Chao Huang] from Unversity of Liverpool and [https://zhaoranwang.github.io/ Prof. Zhaoran Wang] in IEMS at Northwestern.  
-My research interest falls in the learning-enabled cyber-physical systems(LE-CPSs) where the learning components act as the 
-functionalities for perception, planning, decision-making and control. I am exploring the intersection of formal methods and machine learning with the consideration of safety, stability, robustness and correctness.
+I also work closely with [https://chaohuang2018.github.io/main/  Prof. Chao Huang] from Unversity of Liverpool.  
+My research interestes include machine learning and formal methods, with the consideration of safety, stability, robustness and correctness for cyber-physical systems.
 
-Prior to Northwestern, I received my B.E. from [https://www.tsinghua.edu.cn/en/ Tsinghua University]. 
+Prior to Northwestern, I received my B.E. from [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2018. 
 
-[https://www.mccormick.northwestern.edu/electrical-computer/ Department of Electrical and Computer Engineering], \n
-[https://www.northwestern.edu/ Northwestern University] \n
-2145 Sheridan Road \n
-Tech Room L476 \n
-Evanston, IL 60208, United States \n 
 E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
-~~~
+
+[https://drive.google.com/file/d/1kXZk0sXGoTEvfWMTtUWT_qpav31GWB13/view?usp=sharing, Curriculum Vitae], [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar], [https://github.com/wangyixu14 Github]
+
 
 == Recent News
+- 2024.01   We have a few preprints addressing various problems including [https://arxiv.org/abs/2311.02227 safe RL with image observations], [https://arxiv.org/abs/2309.09317 trajectory prediction for autonomous vehicles], 
+and [https://arxiv.org/abs/2312.00812 large language model for autonomous driving]. 
+- 2023.12	Our paper /REGLO: Provable Neural Network Repair for Global Robustness Properties/ has been accepted by AAAI 2024. 
 - 2023.10   Our paper /POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems/ is accepted to TCAD.
-- 2023.10   I presented the paper in IROS.
 - 2023.08	The co-authored book chapter [https://link.springer.com/chapter/10.1007/978-3-031-28016-0_26, Safety-Assured Design and Adaptation of Connected and Autonomous Vehicles] is online.
-- 2023.07	I presented the paper in ICML. 
 - 2023.06	Our paper /Safety-Assured Speculative Planning with Adaptive Prediction/ is accepted to IROS 2023, see u in Detroit this October!
 - 2023.05	I will give a talk to the 6th IEEE International Workshop on Design Automation for Cyber-Physical Systems (DACPS), in July. The title of this talk is "Explainable safe reinforcement learning for safety-critical CPSs"
  which will mainly cover our recent ICML and ICCPS paper, where we developed a differentiable joint-learning bi-level optimization framework for safe RL with both deterministic and stochastic environment. 
 - 2023.04	Our paper /Enforcing Hard Constraints with Soft Barriers: Safety-driven Reinforcement Learning in Unknown Stochastic Environments/ has been accepted to ICML 2023, see u in Hawaii this Summer!
 - 2023.03   I passed the Ph.D. Prospectus Exam!
 - 2023.01	Our paper /Joint Differentiable Optimization and Verification for Certified Reinforcement Learning/ is accepted by ICCPS 2023. 
-- 2022.11	Our paper /REGLO: Provable Neural Network Repair for Global Robustness Properties/ has been accepted by Trustworthy and Socially Responsible Machine Learning (TSRML) Workshop at NeurIPS 2022. 
-- 2022.10	I will join Bosch Sunnyvale as an intern with the topic of 'Hybrid Behavior Planner via Learning Based Approaches' in March 2023, under the supervision of Dr. Jarrett Holtz.
-- 2022.10	Paper /Enforcing Hard Constraints with Soft Barriers: Safe Reinforcement Learning in Unknown Stochastic Environments/ is available on arXiv. 
-- 2022.09   Paper /Accelerate Online Reinforcement Learning for Building HVAC Control with Heterogeneous Expert Guidances/ is accepted by Buildsys 2022.
-- 2022.08	Paper /A Tool for Neural Network Global Robustness Certification and Training/ is on [https://arxiv.org/abs/2208.07289 arXiv].
-- 2022.07	I am in San Francisco to present our verification-in-the-loop paper at Design Automation Conference 2022. 
-- 2022.02	Our paper /Design-while-Verify: Correct-by-Construction Control Learning with Verification in the Loop/ is accepted by DAC 2022, see u at SF this summer.
-- 2022.01	Our paper /Joint Differentiable Optimization and Verification for Certified Reinforcement Learning/ is available on arXiv.
-- 2022.01	Our paper /Physics-Aware Safety-Assured Design of Hierarchical Neural Network based Planner/ by ICCPS 2022. 
-- 2021.12	I presented the Cocktail paper at Design Automation Conference at San Francisco.
-- 2021.09	I finished the internship at Ford.
-- 2021.07   Our paper /Weak Adaptation Learning -- Addressing Cross-domain Data Insufficiency with Weak Annotator/ is accepted by ICCV 2021 and now available at [https://arxiv.org/abs/2102.07358 arXiv].
-- 2021.06   I join Ford as a summer intern, focusing on safe driving under uncertainties. I am working with Dr. Devesh Upadhyay.
-- 2021.02	Our paper /Cocktail: Learn a Better Neural Network Controller from Multiple Experts via Adaptive Mixing and Robust Distillation/ is accepted by DAC 2021, see u at San Francisco this December! 
-- 2020.12	Our paper /Bounding Perception Neural Network Uncertaintyfor Safe Control of Autonomous Systems/ is accepted by DATE 2021.
-- 2020.12.	Our paper /Safety-Assured Design and Adaptation of Learning-Enabled Autonomous Systems/ is accepted by ASP-DAC 2021. 
-- 2020.11.	I presented the paper in ICCAD 2020. 
-- 2020.09.	Our paper /One for Many: Transfer Learning for Building HVAC Control/ is accepted by Buildsys 2020.
-- 2020.08.	Our paper /Know the Unknowns: Addressing Disturbances and Uncertainties in Autonomous Systems/ is accepted by ICCAD special session. 
-- 2020.08.	Our paper /Accurate kinematics calibration method for a large-scale machine tool/ is accepted by IEEE Transaction on Industrial Electronics(IF=7.5+, 2019.) This work was done when I was an undergraduate student in Tsinghua Univerisity... 
-- 2020.07.  Our paper /Energy-Efficient Control Adaptation with Safety Guarantees for Learning-Enabled Cyber-Physical Systems/ is accpted by [https://iccad.com/iccad_2020_accepted_papers ICCAD 2020] as *Best Paper Candidate*! 
-- 2020.07.  I am honored to participate in the Design Automation Conference 2020(DAC 20) Young Fellow program in July. 
-
-== Education
-- Tsinghua University: B.S., Mesurement and Control, 2014 - 2018(GPA: 91.6, ranking 2/71)
-- Northwestern Univerisity: M.S., Computer Engineering, 2019 - 2022.
-- Northwestern University: Ph.D., Computer Engineering, 2019 - 2024 (expected)
 
 == Working Experience
 - Aurora Innovation, Mountain View, CA, USA, 2023.07 - 2023.09, Machine Learning Engineering Intern 
@@ -69,11 +39,8 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 - Sensetime, Shenzhen, China 2019.04 - 2019.08, Machine Learning Engineering Intern
 - Mech-Mind Robotics, Beijing, China, 2017.12 - 2018.02, Software Development Engineering Intern
 
-== Activities
-- DAC 2020 Young Fellow.
-
 == Services
-- Reviewer for AAAI, NeurIPS, ICML, ICLR, RAL, CDC, IV, etc
+- Reviewer for AAAI, NeurIPS, ICML, ICLR, RAL, CDC, IV, IOT Journal, etc
 
 == Teaching
 - Teaching Assistant for ELEC_ENG 373, 473 Deep Reinforcement Learning from Scratch, Spring 2022.
@@ -86,19 +53,3 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 - National Scholarship(top 2%), 2016. 
 - Outstanding Undergraduate Students(top 2%), Tsinghua Univerisity, 2018. 
 - Outstanding Undergraduate Students of Beijing(top 5%), 2018. 
-
-
-== Follow me
-- [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar], [https://github.com/wangyixu14 Github], [https://twitter.com/wangyix94518829 twitter]
-
-== What I love
-- Sports([https://www.nba.com/kobe-bryant-tribute basketball], [https://rogerfederer.com/ tennis], [https://en.wikipedia.org/wiki/Lin_Dan badminton], [http://www.snooker.org/res/index.asp?player=224 billiard], ect.)
-- [https://space.bilibili.com/290526283?from=search&seid=11225113956976063333 Cooking]
-- [https://na.leagueoflegends.com/en-us/ League of Legends]
-- Movies(Oh captain, my captain! [https://en.wikipedia.org/wiki/Dead_Poets_Society Dead Poets Society], [https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film) The Silence of the Lambs], [https://en.wikipedia.org/wiki/Farewell_My_Concubine_(film) Farewell My Concubine]
-, [https://en.wikipedia.org/wiki/L%C3%A9on:_The_Professional The Professional], [https://en.wikipedia.org/wiki/A_Chinese_Odyssey A Chinese Odyssey], [https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series) The Lord of Rings], [https://en.wikipedia.org/wiki/Harry_Potter Harry Potter],
-[https://en.wikipedia.org/wiki/Devils_on_the_Doorstep, Devils on the Doorstep], [https://en.wikipedia.org/wiki/The_Godfather The Godfather], [https://en.wikipedia.org/wiki/Memories_of_Murder, Memories of Murder], Pirates of the Caribbean, etc)
-- TV series(My Own Swordsman, Game of Thrones(seasons 1 - 5), Friends, etc)
-- Music([https://www.instagram.com/jaychou/?hl=en Jay Chou], [https://www.instagram.com/jjlin/?hl=en JJ Lin])
-- [https://en.wikipedia.org/wiki/Zhu_Guangqian Letters on Beauty] is my favorite book talking about a systematic view of aesthetics. After you finish reading this book,
-I believe you will find some aesthetic pleasure in the ordinary life which is often ignored. Walk slowly, and appreciate the life. 

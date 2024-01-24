@@ -1,83 +1,39 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
-== Research
-
-== Research Interests
-My research interests include cyber-physical systems, machine learning and formal verification.
-== Publications [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar]
+== Selected Publications [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar]
 * indicates equal contribution
-=== Preprints and Under Reviews
-- Efficient and Assured Reinforcement Learning-based Building HVAC Control with Heterogeneous Expert-guided Training
--- Shichao Xu, Yangyang Fu, *Yixuan Wang*, Zhuoran Yang, Chao Huang, Zheng O'Neil, Zhaoran Wang, Qi Zhu
--- Under review (Nature Scientific Reports)
-
-- REGLO: Provable Neural Network Repair for Global Robustness Properties
--- Feisi Fu, Zhilu Wang, Jiameng Fan, *Yixuan Wang*,Chao Huang, Qi Zhu, Xin Chen, Wenchao Li
--- Under review
-
-- A Tool for Neural Network Global Robustness Certification and Training
--- Zhilu Wang, *Yixuan Wang*, Feisi Fu, Ruochen Jiao, Chao Huang, Wenchao Li, Qi Zhu
--- preprint
-
-=== Peer-Reviewed Papers
-- POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems
--- *Yixuan Wang*\*, Weichao Zhou\*, Jiameng Fan, Zhilu Wang, Jiajun Li, Xin Chen, Chao Huang, Wenchao Li, Qi Zhu
--- /IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)/, Oct 2023.
-
-- Safety-Assured Speculative Planning with Adaptive Prediction
--- Xiangguo Liu, Ruochen Jiao, *Yixuan Wang*, Yimin Han, Bowen Zheng, Qi Zhu
--- /International Conference on Intelligent Robots and Systems (IROS 2023)/, Oct, 2023
 
 - Enforcing Hard Constraints with Soft Barriers: Safety-driven Reinforcement Learning in Unknown Stochastic Environments
 -- *Yixuan Wang*, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, Wanxin Jin, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu
 -- /International Conference on Machine Learning (ICML 2023)/, Jul. 2023. 
-
-- Accelerate Online Reinforcement Learning for Building HVAC Control with Heterogeneous Expert Guidances
--- Shichao Xu, Yangyang Fu, *Yixuan Wang*, Zhuoran Yang, Zheng O'Neill, Zhaoran Wang, Qi Zhu
--- /International Conference on Systems for Energy-Efficient Built Environments(BuildSys 2022)/, Nov. 2022.
 
 - Joint Differentiable Optimization and Verification for Certified Reinforcement Learning
 -- *Yixuan Wang*\*, Simon Zhan\*, Zhilu Wang, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
 -- /International Conference on Cyber-Physical Systems (ICCPS 2023)/, May. 2023.
 -- equal contribution
 
-- Physics-Aware Safety-Assured Design of Hierarchical Neural Network based Planner
--- Xiangguo Liu, Chao Huang, *Yixuan Wang*, Bowen Zheng, Qi Zhu
--- /International Conference on Cyber-Physical Systems(ICCPS'22)/
+- Energy-Efficient Control Adaptation with Safety Guarantees for Learning-Enabled Cyber-Physical Systems
+-- *Yixuan Wang*, Chao Huang, Qi Zhu
+-- /International Conference on Computer Aided Design(ICCAD'20)/(*Best Paper Candidate*), Nov. 2020.
 
 - Design-while-Verify: Correct-by-Construction Control Learning with Verification in the Loop
 -- *Yixuan Wang*, Chao Huang, Zhilu Wang, Zhaoran Wang, Qi Zhu
 -- /Design Automation Conference(DAC'22)/
 
-- Weak Adaptation Learning -- Addressing Cross-domain Data Insufficiency with Weak Annotator
--- Shichao Xu, Lixu Wang, *Yixuan Wang*, Qi Zhu
--- /International Conference on Computer Vision(ICCV'21)/
-
-- Cocktail: Learn a Better Neural Network Controller from Multiple Experts via Adaptive Mixing and Robust Distillation
--- *Yixuan Wang*, Chao Huang, Zhilu Wang, Shichao Xu, Zhaoran Wang, Qi Zhu
--- /Design Automation Conference(DAC'21)/, Jul, 2021.
-
-- Bounding Perception Neural Network Uncertainty for Safe Control of Autonomous Systems
--- Zhilu Wang, Chao Huang, *Yixuan Wang*, Clara Hobbs, Samarjit Chakraborty, Qi Zhu
--- /Design, Automation and Test in Europe Conference(DATE'21)/, Feb, 2021.
-
-- Safety-Assured Design and Adaptation of Learning-Enabled Autonomous Systems
--- Qi Zhu, Chao Huang, Ruochen Jiao, Shuyue Lan, Hengyi Liang, Xiangguo Liu, *Yixuan Wang*, Zhilu Wang, Shichao Xu
--- /26th Asia and South Pacific Design Automation Conference(ASP-DAC'21)/, Jan, 2021. 
-
-- Accurate kinematics calibration method for a large-scale machine tool
--- An Wan \*, *Yixuan Wang*\*, Guijun Xue, Ken Chen, Jing Xu
--- /IEEE Transaction on Industrial Electronics/
-
 - One for Many: Transfer Learning for Building HVAC Control
 -- Shichao Xu, *Yixuan Wang*, Yanzhi Wang, Zheng O'Neill, Qi Zhu
 -- /International Conference on Systems for Energy-Efficient Built Environments(BuildSys 2020)/, Nov. 2020.
 
-- Know the Unknowns: Addressing Disturbances and Uncertainties in Autonomous Systems
--- Qi Zhu, Wenchao Li, Hyoseung Kim, Yecheng Xiang, Kacper Wardega, Zhilu Wang, *Yixuan Wang*, Hengyi Liang, Chao Huang, Jiameng Fan and Hyunjong Choi
--- /International Conference on Computer-Aided Design(ICCAD'20)/ (Invited Paper), Nov. 2020.
+- REGLO: Provable Neural Network Repair for Global Robustness Properties
+-- Feisi Fu, Zhilu Wang, Weichao Zhou, *Yixuan Wang*, Jiameng Fan, Chao Huang, Qi Zhu, Xin Chen, Wenchao Li
+-- AAAI 2024
 
-- Energy-Efficient Control Adaptation with Safety Guarantees for Learning-Enabled Cyber-Physical Systems
--- *Yixuan Wang*, Chao Huang, Qi Zhu
--- /International Conference on Computer Aided Design(ICCAD'20)/(*Best Paper Candidate*), Nov. 2020. 
+- POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems
+-- *Yixuan Wang*\*, Weichao Zhou\*, Jiameng Fan, Zhilu Wang, Jiajun Li, Xin Chen, Chao Huang, Wenchao Li, Qi Zhu
+-- /IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)/, Oct 2023.
+
+- Weak Adaptation Learning -- Addressing Cross-domain Data Insufficiency with Weak Annotator
+-- Shichao Xu, Lixu Wang, *Yixuan Wang*, Qi Zhu
+-- /International Conference on Computer Vision(ICCV'21)/
+ 
 
 
