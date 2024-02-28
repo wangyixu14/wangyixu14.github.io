@@ -28,7 +28,7 @@ and [https://arxiv.org/abs/2312.00812 large language model for autonomous drivin
 - 2023.06	Our paper /Safety-Assured Speculative Planning with Adaptive Prediction/ is accepted to IROS 2023, see u in Detroit this October!
 - 2023.05	I will give a talk to the 6th IEEE International Workshop on Design Automation for Cyber-Physical Systems (DACPS), in July. The title of this talk is "Explainable safe reinforcement learning for safety-critical CPSs"
  which will mainly cover our recent ICML and ICCPS paper, where we developed a differentiable joint-learning bi-level optimization framework for safe RL with both deterministic and stochastic environment. 
-- 2023.04	Our paper /Enforcing Hard Constraints with Soft Barriers: Safety-driven Reinforcement Learning in Unknown Stochastic Environments/ has been accepted to ICML 2023, see u in Hawaii this Summer!
+- 2023.04	Our paper /Enforcing Hard Constraints with Soft Barriers: Safe Reinforcement Learning in Unknown Stochastic Environments/ has been accepted to ICML 2023, see u in Hawaii this Summer!
 - 2023.03   I passed the Ph.D. Prospectus Exam!
 - 2023.01	Our paper /Joint Differentiable Optimization and Verification for Certified Reinforcement Learning/ is accepted by ICCPS 2023. 
 
@@ -41,6 +41,8 @@ and [https://arxiv.org/abs/2312.00812 large language model for autonomous drivin
 
 == Services
 - Reviewer for AAAI, NeurIPS, ICML, ICLR, RAL, CDC, IV, IOT Journal, etc
+- ICCPS 2024 Poster/Demo PC member
+- ICCPS 2024 Artifact Evaluation PC member
 
 == Teaching
 - Teaching Assistant for ELEC_ENG 373, 473 Deep Reinforcement Learning from Scratch, Spring 2022.
