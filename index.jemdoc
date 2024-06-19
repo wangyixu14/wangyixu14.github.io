@@ -7,10 +7,10 @@
 
 Hi, welcome to my personal page! 
 
-I'm a fifth-year Ph.D. student in the [https://www.mccormick.northwestern.edu/electrical-computer/ Computer Engineering] at 
-[https://www.northwestern.edu/ Northwestern University], supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. 
-I also work closely with [https://chaohuang2018.github.io/main/  Prof. Chao Huang] from Unversity of Liverpool.  
-My research interestes include machine learning and formal methods, with the consideration of safety, stability, robustness and correctness for cyber-physical systems.
+I received my Ph.D. degree in the [https://www.mccormick.northwestern.edu/electrical-computer/ Computer Engineering] at 
+[https://www.northwestern.edu/ Northwestern University] in June 2024, supervised by [http://users.eecs.northwestern.edu/~qzhu/ Prof. Qi Zhu]. 
+I also work closely with [https://chaohuang2018.github.io/main/  Prof. Chao Huang] from Unversity of Southampton, UK.  
+My research interestes include machine learning and formal methods, with the consideration of safety, stability, robustness and correctness for cyber-physical systems. My Ph.D. thesis is "Safety-Assured Autonomy for Learning-Enabled Cyber-Physical Systems". 
 
 Prior to Northwestern, I received my B.E. from [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2018. 
 
@@ -20,6 +20,7 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 
 
 == Recent News
+- 2024.06   I received my Ph.D. degree from Northwestern University, with a best Computer Engineering Ph.D. Thesis Award.  
 - 2024.05   Our paper /Boosting Long-Delayed Reinforcement Learning with Auxiliary Short-Delayed Task/ is accepted to ICML 2024.
 - 2024.04   I passed my Ph.D. defense exam! The slide presentation can be found [https://docs.google.com/presentation/d/1Cfqv72o_JV8rAlubpwbeIrwAbOjJZZ4W/edit?usp=sharing&ouid=105851085244503351919&rtpof=true&sd=true here].
 - 2024.03   Our paper /State-wise Safe Reinforcement Learning with Pixel Observations/ has been accepted to L4DC. 
@@ -52,6 +53,7 @@ and [https://arxiv.org/abs/2312.00812 large language model for autonomous drivin
 - Teaching Assistant for ELEC_ENG 373, 473 Deep Reinforcement Learning from Scratch, Spring 2022.
 
 == Awards
+- Best Computer Engineering Ph.D. Thesis Award, Northwestern University, 2024.
 - Terminal Year Fellowship, Nothwestern University, 2023.
 - Best Paper Candidate, ICCAD 2020.
 - Northwestern Univerisity Ph.D. Fellowship, 2019-2020.
