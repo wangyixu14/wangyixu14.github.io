@@ -14,7 +14,7 @@ My research interestes include machine learning and formal methods, with the con
 
 Prior to Northwestern, I received my B.E. from [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2018. 
 
-E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
+E-mail: /wangyixu14@gmail.com/
 
 [https://docs.google.com/presentation/d/1Cfqv72o_JV8rAlubpwbeIrwAbOjJZZ4W/edit?usp=sharing&ouid=105851085244503351919&rtpof=true&sd=true My research overview], [https://drive.google.com/file/d/1chJN_gegGosRQJgd9K9ENWtQvT9dFm-D/view?usp=sharing, Curriculum Vitae], [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar], [https://github.com/wangyixu14 Github]
 
@@ -25,19 +25,16 @@ E-mail: /yixuanwang2024/ \[AT\] /u/ \[DOT\] /northwestern/ \[DOT\] /edu/
 - 2024.06   I received my Ph.D. degree from Northwestern University, with a best Computer Engineering Ph.D. Thesis Award.  
 - 2024.05   Our paper /Boosting Long-Delayed Reinforcement Learning with Auxiliary Short-Delayed Task/ is accepted to ICML 2024.
 - 2024.04   I passed my Ph.D. defense exam! The slide presentation can be found [https://docs.google.com/presentation/d/1Cfqv72o_JV8rAlubpwbeIrwAbOjJZZ4W/edit?usp=sharing&ouid=105851085244503351919&rtpof=true&sd=true here].
-- 2024.03   Our paper /State-wise Safe Reinforcement Learning with Pixel Observations/ has been accepted to L4DC. 
-- 2024.03   Our paper /Empowering Autonomous Driving with Large Language Models: A Safety Perspective/ is accepted by ICLR 2024 Workshop on LLM Agents. 
-- 2024.01   We have a few preprints addressing various problems including [https://arxiv.org/abs/2311.02227 safe RL with image observations], [https://arxiv.org/abs/2309.09317 trajectory prediction for autonomous vehicles], 
-and [https://arxiv.org/abs/2312.00812 large language model for autonomous driving]. 
-- 2023.12	Our paper /REGLO: Provable Neural Network Repair for Global Robustness Properties/ has been accepted by AAAI 2024. 
-- 2023.10   Our paper /POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems/ is accepted to TCAD.
-- 2023.08	The co-authored book chapter [https://link.springer.com/chapter/10.1007/978-3-031-28016-0_26, Safety-Assured Design and Adaptation of Connected and Autonomous Vehicles] is online.
-- 2023.06	Our paper /Safety-Assured Speculative Planning with Adaptive Prediction/ is accepted to IROS 2023, see u in Detroit this October!
-- 2023.05	I will give a talk to the 6th IEEE International Workshop on Design Automation for Cyber-Physical Systems (DACPS), in July. The title of this talk is "Explainable safe reinforcement learning for safety-critical CPSs"
- which will mainly cover our recent ICML and ICCPS paper, where we developed a differentiable joint-learning bi-level optimization framework for safe RL with both deterministic and stochastic environment. 
-- 2023.04	Our paper /Enforcing Hard Constraints with Soft Barriers: Safe Reinforcement Learning in Unknown Stochastic Environments/ has been accepted to ICML 2023, see u in Hawaii this Summer!
+- 2024.03   Paper /State-wise Safe Reinforcement Learning with Pixel Observations/ has been accepted to L4DC. 
+- 2024.03   Paper /Empowering Autonomous Driving with Large Language Models: A Safety Perspective/ is accepted by ICLR 2024 Workshop on LLM Agents. 
+- 2023.12   Paper /REGLO: Provable Neural Network Repair for Global Robustness Properties/ has been accepted by AAAI 2024. 
+- 2023.10   Paper /POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems/ is accepted to IEEE TCAD.
+- 2023.08   Book chapter [https://link.springer.com/chapter/10.1007/978-3-031-28016-0_26, Safety-Assured Design and Adaptation of Connected and Autonomous Vehicles] is online.
+- 2023.06   Paper /Safety-Assured Speculative Planning with Adaptive Prediction/ is accepted to IROS 2023.
+- 2023.05   I will give a talk to the 6th IEEE International Workshop on Design Automation for Cyber-Physical Systems (DACPS), in July. The title of this talk is "Explainable safe reinforcement learning for safety-critical CPSs", which will mainly cover our recent ICML and ICCPS paper, where we developed a differentiable joint-learning bi-level optimization framework for safe RL with both deterministic and stochastic environment. 
+- 2023.04   Paper /Enforcing Hard Constraints with Soft Barriers: Safe Reinforcement Learning in Unknown Stochastic Environments/ has been accepted to ICML 2023, see u in Hawaii this Summer!
 - 2023.03   I passed the Ph.D. Prospectus Exam!
-- 2023.01	Our paper /Joint Differentiable Optimization and Verification for Certified Reinforcement Learning/ is accepted by ICCPS 2023. 
+- 2023.01   Paper /Joint Differentiable Optimization and Verification for Certified Reinforcement Learning/ is accepted by ICCPS 2023. 
 
 == Working Experience
 - Aurora Innovation, Mountain View, CA, USA, 2023.07 - 2023.09, Machine Learning Engineering Intern 

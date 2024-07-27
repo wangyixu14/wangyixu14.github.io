@@ -1,31 +1,29 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
-== Selected Publications [https://scholar.google.com/citations?user=7qP5C-kAAAAJ&hl=en Google Scholar]
-* indicates equal contribution
+== Selected Publications
 
-- Enforcing Hard Constraints with Soft Barriers: Safety-driven Reinforcement Learning in Unknown Stochastic Environments
+- Enforcing Hard Constraints with Soft Barriers: Safe Reinforcement Learning in Unknown Stochastic Environments
 -- *Yixuan Wang*, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, Wanxin Jin, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu
--- /International Conference on Machine Learning (ICML)/, Jul 2023. 
+-- /ICML/, Jul 2023. 
 
 - Joint Differentiable Optimization and Verification for Certified Reinforcement Learning
 -- *Yixuan Wang*\*, Simon Sinong Zhan\*, Zhilu Wang, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
--- /International Conference on Cyber-Physical Systems (ICCPS)/, May 2023.
--- equal contribution
+-- /ICCPS/, May 2023.
 
 - State-wise Safe Reinforcement Learning with Pixel Observations
 -- Simon Sinong Zhan, *Yixuan Wang*, Qingyuan Wu, Ruochen Jiao, Chao Huang, Qi Zhu
--- /Learning for Dynamics & Control Conference (L4DC)/, Jul 2024.
+-- /L4DC/, Jul 2024.
 
 - Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays
 -- Qingyuan Wu, Simon Sinong Zhan, *Yixuan Wang*, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang
--- /International Conference on Machine Learning (ICML)/, July 2024.
+-- /ICML/, July 2024.
 
 - Energy-Efficient Control Adaptation with Safety Guarantees for Learning-Enabled Cyber-Physical Systems
 -- *Yixuan Wang*, Chao Huang, Qi Zhu
--- /International Conference on Computer Aided Design (ICCAD)/(*Best Paper Candidate*), Nov 2020.
+-- /ICCAD/(*Best Paper Candidate*), Nov 2020.
 
 - Design-while-Verify: Correct-by-Construction Control Learning with Verification in the Loop
 -- *Yixuan Wang*, Chao Huang, Zhilu Wang, Zhaoran Wang, Qi Zhu
--- /Design Automation Conference (DAC)/, Jul 2022.
+-- /DAC/, Jul 2022.
 
 - Empowering Autonomous Driving with Large Language Models: A Safety Perspective
 -- *Yixuan Wang*, Ruochen Jiao, Chengtian Lang, Sinong Simon Zhan, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
@@ -33,19 +31,19 @@
 
 - One for Many: Transfer Learning for Building HVAC Control
 -- Shichao Xu, *Yixuan Wang*, Yanzhi Wang, Zheng O'Neill, Qi Zhu
--- /International Conference on Systems for Energy-Efficient Built Environments(BuildSys)/, Nov 2020.
+-- /BuildSys/, Nov 2020.
 
 - REGLO: Provable Neural Network Repair for Global Robustness Properties
 -- Feisi Fu, Zhilu Wang, Weichao Zhou, *Yixuan Wang*, Jiameng Fan, Chao Huang, Qi Zhu, Xin Chen, Wenchao Li
--- /The Association for the Advancement of Artificial Intelligence (AAAI)/, Feb 2024.
+-- /AAAI/, Feb 2024.
 
 - POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems
 -- *Yixuan Wang*\*, Weichao Zhou\*, Jiameng Fan, Zhilu Wang, Jiajun Li, Xin Chen, Chao Huang, Wenchao Li, Qi Zhu
--- /IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)/, Oct 2023.
+-- /IEEE TCAD/, Oct 2023.
 
 - Weak Adaptation Learning -- Addressing Cross-domain Data Insufficiency with Weak Annotator
 -- Shichao Xu, Lixu Wang, *Yixuan Wang*, Qi Zhu
--- /International Conference on Computer Vision (ICCV)/, 2021.
+-- /ICCV/, 2021.
  
 
 
