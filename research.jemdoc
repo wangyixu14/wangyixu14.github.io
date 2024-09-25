@@ -9,6 +9,10 @@
 -- *Yixuan Wang*\*, Simon Sinong Zhan\*, Zhilu Wang, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
 -- /ICCPS/, May 2023.
 
+- Variational Delayed Policy Optimization
+-- Qingyuan Wu, Simon Sinong Zhan, *Yixuan Wang*, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang
+-- /NeurIPS Spotlight/, Nov, 2024.
+
 - State-wise Safe Reinforcement Learning with Pixel Observations
 -- Simon Sinong Zhan, *Yixuan Wang*, Qingyuan Wu, Ruochen Jiao, Chao Huang, Qi Zhu
 -- /L4DC/, Jul 2024.
